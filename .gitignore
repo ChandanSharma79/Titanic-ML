@@ -1,9 +1,0 @@
-#Virtual Environment
-.venv/
-
-#Python bytecode
-__pycache__/
-*.py[cod]
-
-#ML model files
-*.pkl
